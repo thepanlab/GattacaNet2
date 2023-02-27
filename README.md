@@ -21,8 +21,8 @@ Predictive Genomics leveraging Multi-Task learning and LINA
   * model_pan_disease.ipynb
     * Contains the code to train the pan-disease model
    * model_pan_cancer.ipynb 
-    * Contains the code to train the pan-cancer model
+     * Contains the code to train the pan-cancer model
    * model_pan_cancer_interpretation_decoy.ipynb
-    * Contains the code to train the pan-cancer model with decoy SNPs and to interpret it.
+     * Contains the code to train the pan-cancer model with decoy SNPs and to interpret it.
 
 
