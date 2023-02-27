@@ -26,3 +26,4 @@ Predictive Genomics leveraging Multi-Task learning and LINA
      * Contains the code to train the pan-cancer model with decoy SNPs and to interpret it.
 
 
+For any inquiry please contact adrien.f.badre-@ou.edu
