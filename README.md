@@ -13,7 +13,7 @@ Predictive Genomics leveraging Multi-Task learning and LINA
  ## How to use it 
  This github contains the base code to run our experimentations. Each module represent a step of analysis. 
   * phenotype_extraction_code.ipynb
-    * Contain the code for the parralel phenotypes extraction. Produce 2 CSV file containing cancers and non-cancer diseases
+   * Contain the code for the parralel phenotypes extraction. Produce 2 CSV file containing cancers and non-cancer diseases
   *  model_STL.py
     * Contain the code to train one the STL model. Require the phenotype index number as argument 
   * launch_trainings_STL.sh and train_stl.sbatch
