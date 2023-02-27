@@ -4,7 +4,7 @@ Predictive Genomics leveraging Multi-Task learning and LINA
 
 ## Requirements
   * Python 3.6
-    * Tensoflow v1.13
+    * Tensoflow v2.6.2
     * pandas_plink
     * pandas
     * numpy
