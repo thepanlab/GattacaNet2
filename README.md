@@ -20,7 +20,7 @@ Predictive Genomics leveraging Multi-Task learning and LINA
     *  model_pan_disease.ipynb: Contains the code to train the pan-disease model
     *  model_pan_cancer.ipynb :Contains the code to train the pan-cancer model
     *  model_pan_cancer_interpretation_decoy.ipynb: Contains the code to train the pan-cancer model with decoy SNPs and to interpret it.
-  *Analyses:
+  * Analyses:
     *  important_snps_analysis.ipynb:Compute the important snps at different thresholds of FDR
     *  important_snps_manhattan_venn_inter_corr_union.ipynb:compute the different metrics on the important SNPs and venn diagrams
 
