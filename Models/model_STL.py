@@ -68,7 +68,7 @@ bed=bed.T
 
 bed.shape
 
-bed=bed[fam[fam["fid"].astype("int64")<0].shape[0]:]
+bed=bed[ids]
 
 
 
